@@ -18,4 +18,4 @@ Models Implemented for MNIST **Image Reconstruction** and **Digit Recognition**
 2. Autoencoder with Convolutional Layers
 3. CNN for Digit Recognition
 
-** hybrid approach where CNNs are used as feature extractors, and either SVM or RBFNN is used for classification. This combination leverages the power of CNNs for extracting features and the effectiveness of SVM or RBFNN for classification.
+* hybrid approach where CNNs are used as feature extractors, and either SVM or RBFNN is used for classification. This combination leverages the power of CNNs for extracting features and the effectiveness of SVM or RBFNN for classification.
