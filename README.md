@@ -12,6 +12,7 @@ Models Implemented for CIFAR-10 Multiclass Classification Problem (One vs The Re
 6. Radial Basis Function Neural Network (RBFNN)
 7. Hybrid CNN + SVM
 8. Hybrid CNN + RBFNN
+   
    ** hybrid approach where CNNs are used as feature extractors, and either SVM or RBFNN is used for classification. This combination leverages the power of CNNs for extracting features and the effectiveness of SVM or RBFNN for classification.
 
 Models Implemented for MNIST Image Reconstruction and Digit Recognition 
