@@ -1,4 +1,5 @@
 **Neural Network** Models for **CIFAR-10** and **MNIST**
+
 This repository contains various implementations of machine learning models and techniques applied to the CIFAR-10 and MNIST datasets. The models include traditional algorithms like k-Nearest Neighbors (kNN), Support Vector Machines (SVM), Radial Basis Function Neural Networks (RBFNN), as well as deep learning models such as Convolutional Neural Networks (CNN), Multi-Layer Perceptrons (MLP), and Autoencoders.
 
 Additionally, this repository explores hybrid models that combine CNN as feature extractors with SVM or RBFNN for classification. It also includes an Autoencoder model and a Convolutional Autoencoder for reconstructing MNIST images, followed by CNN-based digit recognition on the reconstructed images.
